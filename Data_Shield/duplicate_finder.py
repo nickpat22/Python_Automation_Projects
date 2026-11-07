@@ -1,6 +1,6 @@
 ################################################################
 #
-# Project Name : Marvellous Data Shield
+# Project Name : Data Shield
 # Description  : Duplicate File Detection and Removal System
 # Language     : Python
 # Author       : Nikunj Patidar

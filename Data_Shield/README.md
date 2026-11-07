@@ -1,4 +1,4 @@
-# Marvellous Data Shield – Duplicate File Detection & Removal
+# Data Shield – Duplicate File Detection & Removal
 
 A Python-based file management automation project that identifies and removes duplicate files from a specified directory using MD5 checksum comparison.
 
@@ -27,7 +27,7 @@ The project demonstrates how hashing algorithms can be used to compare file cont
 ## Project Structure
 
 ```text
-Marvellous_Data_Shield/
+Data_Shield/
 │
 ├── duplicate_finder.py
 ├── README.md
@@ -50,7 +50,7 @@ git clone https://github.com/nickpat22/Python_Automation_Projects.git
 **2. Navigate to the project directory**
 
 ```bash
-cd Python_Automation_Projects/Marvellous_Data_Shield
+cd Python_Automation_Projects/Data_Shield
 ```
 
 **3. Create a directory named `Test`**
